@@ -1,5 +1,4 @@
-# Hackerearth
-Predict the cost to ship the sculptures
+#Predict the cost to ship the sculptures
 
 It can be difficult to navigate the logistics when it comes to buying art. These include, but are not limited to, the following:
 
